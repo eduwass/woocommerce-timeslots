@@ -1,0 +1,2 @@
+Started to work on this to create time slots as Product Variations in WooCommerce.
+Dropped development to use an already made plugin but thought I'd leave this on Github in case anyone can give this a use.
